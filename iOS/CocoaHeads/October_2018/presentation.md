@@ -3,8 +3,43 @@
 ### Mac Bellingrath 
 #### @macbellingrath
 ---
-# Manual Work is a Bug
-Thomas A. Limoncelli
+Goals
+
+* Value of automation - thoughts on `Manual work is a bug`
+* A reflection on manual developer work
+* A look at what I built with fastlane
+
+---
+
+# [fit] [Manual Work is a Bug](https://queue.acm.org/detail.cfm?id=3197520)
+## Thomas A. Limoncelli
+
+---
+# [fit] [Manual Work is a Bug](https://queue.acm.org/detail.cfm?id=3197520)
+a tale of two system administrators:
+
+-  One: "I'm too busy! The person who made the request can't wait! I have 100 other things to do today! Nobody's allocating time for me to write code!"
+- Two: Performs manual work when it produces an `artifact`
+
+---
+# The mindset
+
+![guage](./gauge.jpg)
+
+---
+# [fit] Completely Manual -> Fully Autonomous
+![guage](./gauge.jpg)
+
+---
+# The artifact
+
+What is an `artifact`?
+_it furthers the goal of automating your task_
+
+* a bulleted list
+* a document
+* code snippets
+* a guide
 
 ---
 
@@ -15,6 +50,12 @@ Thomas A. Limoncelli
 *Automation is putting process into code. A bullet list in a process document is code if it is treated that way.*
 
 ---
+# A reflection on manual developer work
+
+
+`..if you can't describe the process in writing, you can't automate it.`
+
+--- 
 
 ## Brief History of Fastlane
 
