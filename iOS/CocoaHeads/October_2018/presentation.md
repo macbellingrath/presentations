@@ -265,8 +265,9 @@ desc "Deploy a build to TestFlight"
 ![inline](slack-command.png)![jenkins](jenkins-configuration.png)
 
 ---
-# Links
+# references and links
 
 [Manual Work is a Bug](https://queue.acm.org/detail.cfm?id=3197520)
 [Fastlane](http://github.com/fastlane/fastlane)
 [Felix Krause Interview](https://itunes.apple.com/us/podcast/31-code-signing-but-for-apis-with-special-guest-felix-krause/id1267161825?i=1000418745689&mt=2)
+[iOSDevCampDC 2018 - Scaling iOS Architecture - Arthur Sabintsev](https://www.youtube.com/watch?v=bvXx1mbbGOA&t=2198s)
